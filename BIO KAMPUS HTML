@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>biodata pribadi</title>
+	<title type="text/css">
+		footer(
+		)
+	</title>
+
+</head>
+<body>
+	<h1 align="center">BIODATA PRIBADI</h1>
+	<hr width="1000"style="10">
+	<table align="center=" cellpadding="10" align="center" width="1000">
+		<tr>
+			<td>NPM</td>
+			<td>: 22641013</td>
+		</tr>
+		<tr>
+			<td>Tempat Tangal Lahir</td>
+			<td>: MENGGENA 08 JULI 1999 </td>
+			<td align="center" width="20" style="4">Nama Mahasiswa : TONI WANIMBO </td>
+		</tr>
+		<tr>
+			<td>Vakultas</td>
+			<td>: TEKNIK DAN SISTEM INFORMASI</td>
+			<td rowspan="5" align="center"><img src="images/sony.JPEG" width="170"></td>
+		</tr>
+		<tr>
+			<td>Prodi</td>
+			<td>: INFORMATIKA</td>
+			
+		</tr>
+		<tr>
+			<td>Kelas</td>
+			<td>: A1 INFORMATIKA</td>
+			
+		</tr>
+		<tr>
+			<td>Agama</td>
+			<td>: KRISTEN PROTESTAN</td>
+		</tr>
+		<tr>
+			<td>Jenis Klamin</td>
+			<td>: LAKI-LAKI </td>
+		</tr>
+		<tr>
+			<td>Alamat</td>
+			<td>: KURAGAPURA </td>
+			<td align="center">Nomor HP      : 085226664915</td>
+		</tr>
+		<tr>
+			<td>Hoby</td>
+			<td>: NONTON TV </td>
+			<td width="20" title="5">Email : toniwanimbo99@gmail.com </td>
+		</tr>
+	</table>
+	<footer>
+		<p align="center"><a href="http://focebook.com"><img src="images/facebook.JPEG" width="40" align="center">AnNebi
+		<a href="http://twitter.com"><img src="images/tuiter.JPEG" width="40" align="center">Angemenebi
+		<a href="http://instagram.com"><img src="images/intagram.JPEG" width="40" align="center">@annebiykw</a>
+	</footer>
+
+</body>
+</html>
